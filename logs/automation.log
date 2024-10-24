@@ -1,9 +1,0 @@
-2024-10-24 14:23:49 INFO  Utils:112 - [TestNG] Running:
-  D:\AutomationFrameWork_2024\HybirdAutoProj2024_V1\runners\Master.xml
-
-2024-10-24 14:23:56 INFO  TC001_AccountRegistrationTest:16 - ***Starting TC001_AccountRegistration****
-2024-10-24 14:23:56 INFO  TC001_AccountRegistrationTest:22 - Clicked Rigister Link
-2024-10-24 14:23:57 INFO  TC001_AccountRegistrationTest:25 - Providing customer details...
-2024-10-24 14:23:59 INFO  TC001_AccountRegistrationTest:39 - Validate expected result...
-2024-10-24 14:23:59 INFO  TC001_AccountRegistrationTest:48 - ****  Finished TC001_AccountRigistration ****
-2024-10-24 14:24:06 INFO  TC002_LoginTest:19 - *** Starting TC002_LoginTest *****
